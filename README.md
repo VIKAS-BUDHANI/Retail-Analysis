@@ -20,3 +20,17 @@ Dashbaord stored various charts, KPI's and filters for obtaining filters.
 * Top logger id 63652 in 2021 and id 209276 in 2022.
 * Top buyer id 79652 in 2021 and id 79652 in 2022. same person.
 * We have found that rejected order 60% and 39% shipped orders are there in 2021 and  54% rejected orders and 46% shipped orders.
+
+## Analysis
+* The business grew by 7% according to orders shipped.
+* Number of logins increased by 2%.
+* In 2021 the rejected orders percentage is 60% and now in 2022, there is 54%. The rejection percentage decreased by 6%.
+
+## Lackings
+* Over all Rejected orders percentage is 57 % which is not good for the company’s growth.
+* Top-selling Products were out of stock.  
+
+## Suggestions
+* Increase Manpower for accepting orders.
+* Check or debug your application.
+* Produce more quantity of top-selling products.
