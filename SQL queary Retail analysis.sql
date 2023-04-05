@@ -71,10 +71,9 @@ order by number_of_selling_product desc;
 	
 
 select * from sales_order_details_new;
+-- making one source table from login_new
 select login_log_id,user_id,day(login_Date)as Date,month(login_Date)as Month,year(login_Date)as year,login_Time1 from login_new;
  
-select distinct login_new.user_id, day(login_Date),month(login_Date),year(login_Date),count(login_log_id) 
-from login_new group by login_log_id;
 
 
 
